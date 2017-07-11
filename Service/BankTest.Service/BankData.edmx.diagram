@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7678edee92f14890867e5db6b7c63518" Name="Diagram1">
+        <EntityTypeShape EntityType="TestBankDBModel.Account" Width="1.5" PointX="4.625" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestBankDBModel.AccountType" Width="1.5" PointX="2.375" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestBankDBModel.Customer" Width="1.5" PointX="2.375" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestBankDBModel.Transaction" Width="1.5" PointX="6.125" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestBankDBModel.TransactionType" Width="1.5" PointX="6.75" PointY="6.375" IsExpanded="true" />
+        <AssociationConnector Association="TestBankDBModel.FK_Account_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="TestBankDBModel.FK_Account_Type" ManuallyRouted="false" />
+        <AssociationConnector Association="TestBankDBModel.FK_Transaction_Type" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="TestBankDBModel.sysdiagram" Width="1.5" PointX="0.75" PointY="7.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

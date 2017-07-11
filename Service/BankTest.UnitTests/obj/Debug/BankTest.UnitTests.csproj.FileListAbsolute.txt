@@ -1,0 +1,17 @@
+E:\Chillindo\Service\BankTest.UnitTests\bin\Debug\BankTest.UnitTests.dll.config
+E:\Chillindo\Service\BankTest.UnitTests\bin\Debug\BankTest.UnitTests.dll
+E:\Chillindo\Service\BankTest.UnitTests\bin\Debug\BankTest.UnitTests.pdb
+E:\Chillindo\Service\BankTest.UnitTests\bin\Debug\BankTest.Service.dll
+E:\Chillindo\Service\BankTest.UnitTests\bin\Debug\EntityFramework.dll
+E:\Chillindo\Service\BankTest.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+E:\Chillindo\Service\BankTest.UnitTests\bin\Debug\nunit.framework.dll
+E:\Chillindo\Service\BankTest.UnitTests\bin\Debug\Rhino.Mocks.dll
+E:\Chillindo\Service\BankTest.UnitTests\bin\Debug\BankTest.Service.pdb
+E:\Chillindo\Service\BankTest.UnitTests\bin\Debug\BankTest.Service.dll.config
+E:\Chillindo\Service\BankTest.UnitTests\bin\Debug\EntityFramework.xml
+E:\Chillindo\Service\BankTest.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+E:\Chillindo\Service\BankTest.UnitTests\bin\Debug\nunit.framework.xml
+E:\Chillindo\Service\BankTest.UnitTests\bin\Debug\Rhino.Mocks.xml
+E:\Chillindo\Service\BankTest.UnitTests\obj\Debug\BankTest.UnitTests.csprojResolveAssemblyReference.cache
+E:\Chillindo\Service\BankTest.UnitTests\obj\Debug\BankTest.UnitTests.dll
+E:\Chillindo\Service\BankTest.UnitTests\obj\Debug\BankTest.UnitTests.pdb
